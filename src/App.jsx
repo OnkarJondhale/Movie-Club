@@ -28,8 +28,6 @@ const options = {
   }
 };
 
-const APIKEY = 'c528793b534586cd118429cffcad9505';
-
 const auth = getAuth(Firebase);
 
 function App() {
